@@ -1,2 +1,2 @@
 # tietokantasovellus_laskutussovellus
-Tieokantasovellus-kurssin harjoitustyö, laskutussovellus
+Tietokantasovellus-kurssin harjoitustyö, laskutussovellus
